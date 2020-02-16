@@ -1,2 +1,2 @@
 # Insure-Landing-Page-New
-Minified folder
+# https://aleemcode.github.io/Insure-Landing-Page-New/
